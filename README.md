@@ -31,7 +31,7 @@ Existem duas maneiras de executar a aplicação:
 
 ### Opção A: Usando o Executável (Recomendado para não-desenvolvedores)
 
-1.  Vá para a seção de **[Releases](https.github.com/matias-en/Simples-Nacional---Organizador_xml/releases)** deste repositório.
+1.  Vá para a seção de **[Releases](https://github.com/matias-en/Separador_atividades_anexos-SimplesNacional/tree/main/releases)** deste repositório.
 2.  Baixe a versão mais recente do arquivo `.exe` (ex: `OrganizadorFiscal.exe`).
 3.  Coloque o executável em uma pasta de sua preferência.
 4.  Execute o programa. Na primeira vez, o arquivo `mapeamentos.json` será criado na mesma pasta.
@@ -44,7 +44,7 @@ Existem duas maneiras de executar a aplicação:
 1.  Certifique-se de ter o **Git** e o **Python 3** instalados em sua máquina.
 2.  Clone este repositório:
     ```bash
-    git clone [https://github.com/matias-en/Simples-Nacional---Organizador_xml.git](https://github.com/matias-en/Simples-Nacional---Organizador_xml.git)
+    git clone [https://github.com/matias-en/Simples-Nacional---Organizador_xml.git](https://github.com/matias-en/Separador_atividades_anexos-SimplesNacional)
     ```
 3.  Navegue até a pasta do projeto:
     ```bash

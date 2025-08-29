@@ -12,7 +12,7 @@ Uma aplicação de desktop desenvolvida em Python para automatizar a organizaç�
 
 ## 🚀 Sobre o Projeto
 
-Este projeto nasceu da necessidade de organizar de forma eficiente lotes de arquivos XML de notas fiscais, um desafio comum para contadores e pequenas empresas. A aplicação lê os arquivos, identifica o código de atividade fiscal (CNAE ou Código de Serviço Municipal) e move cada arquivo para uma pasta correspondente ao seu Anexo de tributação no Simples Nacional (Anexo I, II, III, etc.).
+Este projeto nasceu da necessidade de organizar de forma eficiente lotes de arquivos XML de notas fiscais, um desafio comum para contadores e pequenas empresas. A aplicação lê os arquivos, identifica o código de atividade fiscal (CNAE ou Código de Serviço Municipal) e move cada arquivo para uma pasta correspondente ao seu Anexo de tributação no Simples Nacional (Anexo III, IV e V).
 
 Toda a configuração é feita através de uma interface gráfica intuitiva, sem a necessidade de editar o código.
 

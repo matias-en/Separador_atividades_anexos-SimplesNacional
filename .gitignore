@@ -1,0 +1,13 @@
+# Pastas e arquivos gerados pelo Python e PyInstaller
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Arquivo de mapeamentos (pode conter dados sensíveis)
+mapeamentos.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

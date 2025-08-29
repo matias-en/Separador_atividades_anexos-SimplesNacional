@@ -3,15 +3,15 @@
 ![Versão do Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Licença](https://img.shields.io/badge/License-MIT-green.svg)
 
-Uma aplicação de desktop desenvolvida em Python para automatizar a organização de arquivos XML de Notas Fiscais (NF-e/NFS-e) com base na sua tributação no Simples Nacional.
+Uma aplicação de desktop desenvolvida em Python para automatizar a organização de arquivos XML de Notas Fiscais de Serviço (NFS-e) com base na sua tributação no Simples Nacional.
 
-![Captura de Tela da Aplicação](https://github.com/matias-en/Simples-Nacional---Organizador_xml/blob/main/screenshot.png?raw=true)
+![Captura de Tela da Aplicação](https://github.com/matias-en/Separador_atividades_anexos-SimplesNacional/blob/main/image/separador.png?raw=true)
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-Este projeto nasceu da necessidade de organizar de forma eficiente lotes de arquivos XML de notas fiscais, um desafio comum para contadores e pequenas empresas. A aplicação lê os arquivos, identifica o código de atividade fiscal (CNAE ou Código de Serviço Municipal) e move cada arquivo para uma pasta correspondente ao seu Anexo de tributação no Simples Nacional (Anexo I, II, III, etc.).
+Este projeto nasceu da necessidade de organizar de forma eficiente lotes de arquivos XML de notas fiscais, um desafio comum para contadores e pequenas empresas. A aplicação lê os arquivos, identifica o código de atividade fiscal (CNAE ou Código de Serviço Municipal) e move cada arquivo para uma pasta correspondente ao seu Anexo de tributação no Simples Nacional (Anexo III, IV e V).
 
 Toda a configuração é feita através de uma interface gráfica intuitiva, sem a necessidade de editar o código.
 

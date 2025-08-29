@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 build/
+dist/
 *.spec
 
 # Arquivo de mapeamentos (pode conter dados sensíveis)

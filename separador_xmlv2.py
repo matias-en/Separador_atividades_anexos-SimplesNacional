@@ -79,8 +79,7 @@ class XmlSorterApp:
 
         ttk.Label(input_frame, text="Anexo:").pack(side=tk.LEFT, padx=(10, 5))
         anexo_options = [
-            "Anexo I - Comércio", "Anexo II - Indústria", "Anexo III", "Anexo IV", "Anexo V",
-            "Anexo III ou V (Depende do Fator R)"
+            "Anexo III", "Anexo IV", "Anexo III ou V (Depende do Fator R)"
         ]
         anexo_combobox = ttk.Combobox(input_frame, values=anexo_options, width=30)
         anexo_combobox.pack(side=tk.LEFT, padx=5)

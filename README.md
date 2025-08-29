@@ -44,11 +44,11 @@ Existem duas maneiras de executar a aplicação:
 1.  Certifique-se de ter o **Git** e o **Python 3** instalados em sua máquina.
 2.  Clone este repositório:
     ```bash
-    git clone [https://github.com/matias-en/Simples-Nacional---Organizador_xml.git](https://github.com/matias-en/Separador_atividades_anexos-SimplesNacional)
+    git clone https://github.com/matias-en/Separador_atividades_anexos-SimplesNacional
     ```
 3.  Navegue até a pasta do projeto:
     ```bash
-    cd Simples-Nacional---Organizador_xml
+    cd Separador_atividades_anexos-SimplesNacional
     ```
 4.  Execute o script principal:
     ```bash

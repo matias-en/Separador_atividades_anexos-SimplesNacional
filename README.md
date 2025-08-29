@@ -3,7 +3,7 @@
 ![Versão do Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Licença](https://img.shields.io/badge/License-MIT-green.svg)
 
-Uma aplicação de desktop desenvolvida em Python para automatizar a organização de arquivos XML de Notas Fiscais (NF-e/NFS-e) com base na sua tributação no Simples Nacional.
+Uma aplicação de desktop desenvolvida em Python para automatizar a organização de arquivos XML de Notas Fiscais (NFS-e) com base na sua tributação no Simples Nacional.
 
 ![Captura de Tela da Aplicação](URL_DA_SUA_IMAGEM_AQUI)
 *(Dica: Tire uma captura de tela do seu aplicativo, adicione ao seu repositório e substitua a URL acima)*

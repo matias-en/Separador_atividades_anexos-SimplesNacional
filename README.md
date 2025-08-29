@@ -64,23 +64,23 @@ A pasta `xml_organizados` é gerada **no mesmo diretório da pasta que você sel
 
 Se a sua estrutura de pastas for esta:
 
-Documentos/
-└── Notas_Para_Processar/
-├── nota1.xml
-├── nota2.xml
-└── nota3.xml
+# Documentos/
+# └── Notas_Para_Processar/
+# ├── nota1.xml
+# ├── nota2.xml
+# └── nota3.xml
 
 Após selecionar a pasta `Notas_Para_Processar` e rodar o programa, a sua estrutura ficará assim:
 
-Documentos/
-├── Notas_Para_Processar/      <-- Ficará vazia ou com os arquivos não classificados.
-|
-└── xml_organizados/           <-- Nova pasta com os arquivos organizados.
-├── Anexo I/
-│   └── nota2.xml
-└── Anexo III/
-├── nota1.xml
-└── nota3.xml
+# Documentos/
+# ├── Notas_Para_Processar/      <-- Ficará vazia ou com os arquivos não classificados.
+# |
+# └── xml_organizados/           <-- Nova pasta com os arquivos organizados.
+# ├── Anexo I/
+# │   └── nota2.xml
+# └── Anexo III/
+# ├── nota1.xml
+# └── nota3.xml
 
 ## 🛠️ Tecnologias Utilizadas
 
